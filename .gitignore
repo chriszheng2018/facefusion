@@ -1,3 +1,7 @@
 .assets
 .idea
 .vscode
+.pyc
+.pytest_cache
+__pycache__
+.mypy_cache
